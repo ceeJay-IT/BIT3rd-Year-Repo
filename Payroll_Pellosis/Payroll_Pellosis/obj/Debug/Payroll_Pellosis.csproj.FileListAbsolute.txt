@@ -1,0 +1,10 @@
+C:\Users\Judee\source\repos\Payroll_Pellosis\Payroll_Pellosis\bin\Debug\Payroll_Pellosis.exe.config
+C:\Users\Judee\source\repos\Payroll_Pellosis\Payroll_Pellosis\bin\Debug\Payroll_Pellosis.exe
+C:\Users\Judee\source\repos\Payroll_Pellosis\Payroll_Pellosis\bin\Debug\Payroll_Pellosis.pdb
+C:\Users\Judee\source\repos\Payroll_Pellosis\Payroll_Pellosis\obj\Debug\Payroll_Pellosis.csproj.AssemblyReference.cache
+C:\Users\Judee\source\repos\Payroll_Pellosis\Payroll_Pellosis\obj\Debug\Payroll_Pellosis.Form1.resources
+C:\Users\Judee\source\repos\Payroll_Pellosis\Payroll_Pellosis\obj\Debug\Payroll_Pellosis.Properties.Resources.resources
+C:\Users\Judee\source\repos\Payroll_Pellosis\Payroll_Pellosis\obj\Debug\Payroll_Pellosis.csproj.GenerateResource.cache
+C:\Users\Judee\source\repos\Payroll_Pellosis\Payroll_Pellosis\obj\Debug\Payroll_Pellosis.csproj.CoreCompileInputs.cache
+C:\Users\Judee\source\repos\Payroll_Pellosis\Payroll_Pellosis\obj\Debug\Payroll_Pellosis.exe
+C:\Users\Judee\source\repos\Payroll_Pellosis\Payroll_Pellosis\obj\Debug\Payroll_Pellosis.pdb
