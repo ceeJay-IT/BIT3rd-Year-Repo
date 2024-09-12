@@ -1,0 +1,10 @@
+C:\Users\Judee\source\repos\BIT31_Pellosis_EA1_Calculator\BIT31_Pellosis_EA1_Calculator\bin\Debug\BIT31_Pellosis_EA1_Calculator.exe.config
+C:\Users\Judee\source\repos\BIT31_Pellosis_EA1_Calculator\BIT31_Pellosis_EA1_Calculator\bin\Debug\BIT31_Pellosis_EA1_Calculator.exe
+C:\Users\Judee\source\repos\BIT31_Pellosis_EA1_Calculator\BIT31_Pellosis_EA1_Calculator\bin\Debug\BIT31_Pellosis_EA1_Calculator.pdb
+C:\Users\Judee\source\repos\BIT31_Pellosis_EA1_Calculator\BIT31_Pellosis_EA1_Calculator\obj\Debug\BIT31_Pellosis_EA1_Calculator.csproj.AssemblyReference.cache
+C:\Users\Judee\source\repos\BIT31_Pellosis_EA1_Calculator\BIT31_Pellosis_EA1_Calculator\obj\Debug\BIT31_Pellosis_EA1_Calculator.Form1.resources
+C:\Users\Judee\source\repos\BIT31_Pellosis_EA1_Calculator\BIT31_Pellosis_EA1_Calculator\obj\Debug\BIT31_Pellosis_EA1_Calculator.Properties.Resources.resources
+C:\Users\Judee\source\repos\BIT31_Pellosis_EA1_Calculator\BIT31_Pellosis_EA1_Calculator\obj\Debug\BIT31_Pellosis_EA1_Calculator.csproj.GenerateResource.cache
+C:\Users\Judee\source\repos\BIT31_Pellosis_EA1_Calculator\BIT31_Pellosis_EA1_Calculator\obj\Debug\BIT31_Pellosis_EA1_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Judee\source\repos\BIT31_Pellosis_EA1_Calculator\BIT31_Pellosis_EA1_Calculator\obj\Debug\BIT31_Pellosis_EA1_Calculator.exe
+C:\Users\Judee\source\repos\BIT31_Pellosis_EA1_Calculator\BIT31_Pellosis_EA1_Calculator\obj\Debug\BIT31_Pellosis_EA1_Calculator.pdb
