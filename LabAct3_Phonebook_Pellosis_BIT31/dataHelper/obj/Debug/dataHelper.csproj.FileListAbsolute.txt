@@ -1,0 +1,12 @@
+D:\BIT31\LabAct3_Phonebook_Pellosis_BIT31\dataHelper\bin\Debug\dataHelper.dll
+D:\BIT31\LabAct3_Phonebook_Pellosis_BIT31\dataHelper\bin\Debug\dataHelper.pdb
+D:\BIT31\LabAct3_Phonebook_Pellosis_BIT31\dataHelper\obj\Debug\dataHelper.csproj.AssemblyReference.cache
+D:\BIT31\LabAct3_Phonebook_Pellosis_BIT31\dataHelper\obj\Debug\dataHelper.csproj.CoreCompileInputs.cache
+D:\BIT31\LabAct3_Phonebook_Pellosis_BIT31\dataHelper\obj\Debug\dataHelper.dll
+D:\BIT31\LabAct3_Phonebook_Pellosis_BIT31\dataHelper\obj\Debug\dataHelper.pdb
+C:\Users\Judee\Downloads\LabAct3_Phonebook_Pellosis_BIT31\dataHelper\bin\Debug\dataHelper.dll
+C:\Users\Judee\Downloads\LabAct3_Phonebook_Pellosis_BIT31\dataHelper\bin\Debug\dataHelper.pdb
+C:\Users\Judee\Downloads\LabAct3_Phonebook_Pellosis_BIT31\dataHelper\obj\Debug\dataHelper.csproj.AssemblyReference.cache
+C:\Users\Judee\Downloads\LabAct3_Phonebook_Pellosis_BIT31\dataHelper\obj\Debug\dataHelper.csproj.CoreCompileInputs.cache
+C:\Users\Judee\Downloads\LabAct3_Phonebook_Pellosis_BIT31\dataHelper\obj\Debug\dataHelper.dll
+C:\Users\Judee\Downloads\LabAct3_Phonebook_Pellosis_BIT31\dataHelper\obj\Debug\dataHelper.pdb
