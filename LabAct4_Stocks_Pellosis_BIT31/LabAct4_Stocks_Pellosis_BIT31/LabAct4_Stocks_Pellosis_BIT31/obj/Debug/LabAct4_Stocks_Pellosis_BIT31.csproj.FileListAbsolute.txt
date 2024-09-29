@@ -1,0 +1,13 @@
+C:\Users\Judee\source\repos\LabAct4_Stocks_Pellosis_BIT31\LabAct4_Stocks_Pellosis_BIT31\bin\Debug\LabAct4_Stocks_Pellosis_BIT31.exe.config
+C:\Users\Judee\source\repos\LabAct4_Stocks_Pellosis_BIT31\LabAct4_Stocks_Pellosis_BIT31\bin\Debug\LabAct4_Stocks_Pellosis_BIT31.exe
+C:\Users\Judee\source\repos\LabAct4_Stocks_Pellosis_BIT31\LabAct4_Stocks_Pellosis_BIT31\bin\Debug\LabAct4_Stocks_Pellosis_BIT31.pdb
+C:\Users\Judee\source\repos\LabAct4_Stocks_Pellosis_BIT31\LabAct4_Stocks_Pellosis_BIT31\obj\Debug\LabAct4_Stocks_Pellosis_BIT31.csproj.AssemblyReference.cache
+C:\Users\Judee\source\repos\LabAct4_Stocks_Pellosis_BIT31\LabAct4_Stocks_Pellosis_BIT31\obj\Debug\LabAct4_Stocks_Pellosis_BIT31.Form1.resources
+C:\Users\Judee\source\repos\LabAct4_Stocks_Pellosis_BIT31\LabAct4_Stocks_Pellosis_BIT31\obj\Debug\LabAct4_Stocks_Pellosis_BIT31.Properties.Resources.resources
+C:\Users\Judee\source\repos\LabAct4_Stocks_Pellosis_BIT31\LabAct4_Stocks_Pellosis_BIT31\obj\Debug\LabAct4_Stocks_Pellosis_BIT31.csproj.GenerateResource.cache
+C:\Users\Judee\source\repos\LabAct4_Stocks_Pellosis_BIT31\LabAct4_Stocks_Pellosis_BIT31\obj\Debug\LabAct4_Stocks_Pellosis_BIT31.csproj.CoreCompileInputs.cache
+C:\Users\Judee\source\repos\LabAct4_Stocks_Pellosis_BIT31\LabAct4_Stocks_Pellosis_BIT31\obj\Debug\LabAct4_Stocks_Pellosis_BIT31.exe
+C:\Users\Judee\source\repos\LabAct4_Stocks_Pellosis_BIT31\LabAct4_Stocks_Pellosis_BIT31\obj\Debug\LabAct4_Stocks_Pellosis_BIT31.pdb
+C:\Users\Judee\source\repos\LabAct4_Stocks_Pellosis_BIT31\LabAct4_Stocks_Pellosis_BIT31\bin\Debug\dataHelp.dll
+C:\Users\Judee\source\repos\LabAct4_Stocks_Pellosis_BIT31\LabAct4_Stocks_Pellosis_BIT31\bin\Debug\dataHelp.pdb
+C:\Users\Judee\source\repos\LabAct4_Stocks_Pellosis_BIT31\LabAct4_Stocks_Pellosis_BIT31\obj\Debug\LabAct4_.6E23F92C.Up2Date

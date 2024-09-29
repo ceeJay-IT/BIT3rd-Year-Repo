@@ -1,0 +1,6 @@
+C:\Users\Judee\source\repos\LabAct4_Stocks_Pellosis_BIT31\dataHelp\bin\Debug\dataHelp.dll
+C:\Users\Judee\source\repos\LabAct4_Stocks_Pellosis_BIT31\dataHelp\bin\Debug\dataHelp.pdb
+C:\Users\Judee\source\repos\LabAct4_Stocks_Pellosis_BIT31\dataHelp\obj\Debug\dataHelp.csproj.AssemblyReference.cache
+C:\Users\Judee\source\repos\LabAct4_Stocks_Pellosis_BIT31\dataHelp\obj\Debug\dataHelp.csproj.CoreCompileInputs.cache
+C:\Users\Judee\source\repos\LabAct4_Stocks_Pellosis_BIT31\dataHelp\obj\Debug\dataHelp.dll
+C:\Users\Judee\source\repos\LabAct4_Stocks_Pellosis_BIT31\dataHelp\obj\Debug\dataHelp.pdb
